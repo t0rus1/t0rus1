@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t0rus1
 - 👀 I’m interested in many things. Nowadays ICP and Motoko mainly. Physics, philosphy, politics, Greek music and language.
-- 🌱 I’m currently learning Motoko, Python, React, Node and Greek.
+- 🌱 I’m currently learning Motoko, ICP dev and Greek.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
